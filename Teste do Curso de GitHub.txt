@@ -1,0 +1,2 @@
+ Este arquivo criei como primeiro arquivo para o curso de GitHub. 
+O arquivo README foi escrito em Markdown. Interessante.
